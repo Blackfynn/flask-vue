@@ -1,7 +1,7 @@
 blackfynn==2.4.3
 boto3==1.7.75
 botocore==1.10.75
-certifi==2018.8.13
+certifi==2022.12.7
 chardet==3.0.4
 click==6.7
 configparser==3.5.0
